@@ -1,4 +1,4 @@
-\# Diabetes Diagnostic System (Azure ML)
+# Diabetes Diagnostic System (Azure ML)
 
 
 
