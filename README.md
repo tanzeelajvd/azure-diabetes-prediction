@@ -42,7 +42,7 @@ azure-diabetes-prediction/
 
 ├── app/
 │   ├── main.py              # GUI entry point
-│   └── azure\_diabetic.py    # Azure ML inference logic
+│   └── azure_diabetic.py    # Azure ML inference logic
 ├── assets/
 │   ├── givee.gif             # Predict button icon
 │   └── visitt.gif            # Information button icon
@@ -92,7 +92,7 @@ python app/main.py
 
 ## Azure Machine Learning Dependency
 
-To run predictions successfully, the following must be configured in `azure\_diabetic.py`:
+To run predictions successfully, the following must be configured in `azure_diabetic.py`:
 
 * Azure ML REST endpoint URL
 * Valid API key or authentication token
@@ -112,8 +112,3 @@ It is **not intended for clinical diagnosis, treatment, or medical decision-maki
 ## License
 
 This project is provided for **academic and research purposes only**.
-
-
-
-```
-
